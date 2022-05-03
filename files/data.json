@@ -1,0 +1,3924 @@
+{
+	"books": [
+		{
+			"title": "Ako táboriť: Sprievodca prírodov",
+			"author": "Lynn Brunelle",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "The Genius Files: Never Say Genius",
+			"author": "Dan Gutman",
+			"language": "Angličtina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Hrajme sa s matematikou",
+			"author": "Tamás Varga",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Škola keramiky",
+			"author": "Steve Mattison",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Lovec králikov",
+			"author": "Lars Kepler",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "El Gran Baile de los Caricacos y otros relatos de Costa Rica",
+			"author": "Anne Seingol \u0026 Yvette Castro",
+			"language": "Španielčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Mámiferos en peligro: Entre dantas tepezcuintles y sainos",
+			"author": "Claudia Zúñiga",
+			"language": "Španielčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Biblická príbehy pre celú rodinu",
+			"author": "Parragon",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Astrofyzika pre zaneprázdnených",
+			"author": "Neil de Grasse Tyson",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Biblia",
+			"author": "Gustave Doré",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Digitální fotografie v Lightroom 5",
+			"author": "Scott Kelby",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Gold Coast and Hinterland",
+			"author": "Peter Lik",
+			"language": "Angličtina",
+			"genre": "Cestovateľská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Vaideology",
+			"author": "Steve Vai",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "I.M.T. SMILE: Spevník",
+			"author": "I.M.T. SMILE",
+			"language": "Slovenčina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Hobit",
+			"author": "J. R. R. Tolkien",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Star Wars: Catalyst",
+			"author": "James Luceno",
+			"language": "Angličtina",
+			"genre": "Sci-Fi",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Slovenské Rozprávky",
+			"author": "Pavol Dobšinský",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "30 sekúnd náboženstiev",
+			"author": "Russell Re Manning",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Patnáciletý Kapitán",
+			"author": "Jules Verne",
+			"language": "Čeština",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Doktor Proktor a koniec sveta. Možno",
+			"author": "Jo Nesbo",
+			"language": "Slovenčina",
+			"genre": "Sci-Fi",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Nezblázni sa, mamička",
+			"author": "Gabriela Futová",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Rozprávky pre neposlušné deti a ich starostlivých rodičov",
+			"author": "Joyef Gertli Danglár",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Slovenské Rozprávky",
+			"author": "Pavol Dobšinský",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Najväčšia kniha kúziel",
+			"author": "Pasqual Romano",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Veľká kniha slovenských rozprávok",
+			"author": "Ľubomír Feldek",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Fyzika",
+			"author": "Ivan Teplička",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "PHP a XML",
+			"author": "Jiři Kosek",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Digitálny vek: 50 myšlienok ktoré by ste mali poznať",
+			"author": "Tom Chatfield",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Skladáme origami",
+			"author": "Paul Jackson",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Kosti na pláži",
+			"author": "Kathy Reichs",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Percy Jackson: Sea of Monsters",
+			"author": "Rick Riordan",
+			"language": "Angličtina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Dobrodružstvá Toma Sawyera a Huckleberryho Finna",
+			"author": "Mark Twain",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Fantastický pán Lišiak",
+			"author": "Roald Dahl",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Zatúlaný Gombík",
+			"author": "Zuzana Csontosová",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Statky-zmätky",
+			"author": "Joyef Gregor-Tajovský",
+			"language": "Slovenčina",
+			"genre": "Dráma",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Nineteen Eighty-Four",
+			"author": "George Orwell",
+			"language": "Angličtina",
+			"genre": "Dystopia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Islám",
+			"author": "Shaykh Fadhlalla Haeri",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Cesta na mesiac",
+			"author": "Jules Verne",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Morská obluda",
+			"author": "Jules Verne",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Cesta do stredu zeme",
+			"author": "Jules Verne",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Templáři: Fakta a mýtus",
+			"author": "Michael Haag",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Zmluva podľa Paganiniho",
+			"author": "Lars Kepler",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Strašní Rimania",
+			"author": "Terry Deary",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Učebnica pre šoférov a autoškoly",
+			"author": "Ľubomír Tvorík",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Vražedné Tajomstvá",
+			"author": "Kathy Reichs",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Príbeh o Zúfalčekovy",
+			"author": "Kate DiCamillová",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "101 Things I Learned in Culinary School",
+			"author": "Louis Eguras \u0026 Matthew Frederick",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Sedem krátkych prednášok o fyzike",
+			"author": "Carlo Rovelli",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "The Genius Files: Mission Unstopable",
+			"author": "Dan Gutman",
+			"language": "Angličtina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Nemý svedok",
+			"author": "Michael Hjort \u0026 Hans Rosenfeldt",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Klára a Iglu",
+			"author": "Petra Nagyová Džerengová",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Why Beethoven Threw the Stew",
+			"author": "Steve Isserlis",
+			"language": "Angličtina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Mientras haya vida... Hay lucha",
+			"author": "Carlos Aguilar Ruiy",
+			"language": "Španielčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Aristoteles a Dante spoznávajú svet a tajomstvá versmíru",
+			"author": "Benjamin Alire Sáenz",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Cesta pravého muža",
+			"author": "David Deida",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Gogo: Chalan z internetu",
+			"author": "Daniel Sebastian Štrauch",
+			"language": "Slovenčina",
+			"genre": "Biografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Lazár",
+			"author": "Lars Kepler",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Pán Tragáčik a tajomstvo nad tajomstvami",
+			"author": "Zbigniew Nienacki",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Hore srdcia",
+			"author": "Gréckokatolicá Eparchia, Košice",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Môj pamätník k prvému svätému prijímaniu",
+			"author": "Ján Sucháň",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "7 návyků skutečně efektivních lidí",
+			"author": "Stephen Covey",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "NodeJS: Okamžitě",
+			"author": "Don Nguyen",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Pequenos Preludios e Fugetas",
+			"author": "Bach - Buonamici",
+			"language": "Taliančina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Trestný zákon: Zákon o trestnej zodpovednosti právnickych osôb",
+			"author": "Slovenská republika",
+			"language": "Slovenčina",
+			"genre": "Zákon",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Piano Adventures 2B",
+			"author": "Nancz Faber \u0026 Randall Faber",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Piano Adventures 2A",
+			"author": "Nancz Faber \u0026 Randall Faber",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Piano Adventures Level 1",
+			"author": "Nancz Faber \u0026 Randall Faber",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Celebrated Piano Solos",
+			"author": "Allans Music Australia",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Tuneful Technique",
+			"author": "William Lovelock",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Stupnice pro piano",
+			"author": "E. Kraus",
+			"language": "Čeština",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Programování pro úplné začátečníky",
+			"author": "Radek Hylmar",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Húrinové deti",
+			"author": "J. R. R. Tolkien \u0026 Christopher Tolkien",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Hráme na gitare",
+			"author": "Barnes \u0026 Noble Books",
+			"language": "Slovenčina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Sapiens: A Brief History of Human Kind",
+			"author": "Yuval Noah Harari",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Spasiteľ",
+			"author": "Jo Nesbo",
+			"language": "Angličtina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Čo keby",
+			"author": "Randall Munroe",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Pravidlo štyroch",
+			"author": "Ian Caldwell \u0026 Dustin Thomason",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Vampiráti: Čierné srdcia",
+			"author": "Justin Somper",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Vampiráti: Príliv hrôzi",
+			"author": "Justin Somper",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Tieň hada",
+			"author": "Rick Riordan",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Čiň-Čiň",
+			"author": "Ľudmila Podjavorinská",
+			"language": "Slovenčina",
+			"genre": "Detské básničky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Cantervillské strašidlo",
+			"author": "Nový Čas",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Neublížiš",
+			"author": "Kelly Parsons",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Pán Tragáčik a základy Fromborku",
+			"author": "Zbigniew Nienacki",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Najmladší veľkňaz",
+			"author": "Ladislav Varga \u0026 Mariana Komorová",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Prvorodený",
+			"author": "Filip Alexanderson",
+			"language": "Slovenčina",
+			"genre": "Detektívka",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Spod Krošne veselo a vážne",
+			"author": "Jaro Švorc \u0026 Paľo Barbaráš",
+			"language": "Slovenčina",
+			"genre": "Poviedky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Star Wars: The Force Awakens",
+			"author": "Alan Dean Foster",
+			"language": "Angličtina",
+			"genre": "Sci-Fi",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Detská univerzita aj pre dospelých",
+			"author": "Univerzita Komenského",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Pätnásť ročný kapitán",
+			"author": "Jules Verne",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Dva roky prázdnin",
+			"author": "Jules Verne",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Kroniky západného pobrežia: Sily",
+			"author": "Ursula K. Le Guin",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "brain trickery",
+			"author": "mindbending",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Marťan",
+			"author": "Andy Weir",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Legendy Zlatého mesta",
+			"author": "Juraj Červenák",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "A Dictionary of Tolkien",
+			"author": "David Day",
+			"language": "Angličtina",
+			"genre": "Slovník",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Silmarillion",
+			"author": "J. R. R. Tolkien \u0026 Christopher Tolkien",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Artemis Fowl",
+			"author": "Eoim Colfer",
+			"language": "Angličtina",
+			"genre": "Sci-Fi",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Ihrisko",
+			"author": "Lars Kepler",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Experiment",
+			"author": "Veronica Roth",
+			"language": "Slovenčina",
+			"genre": "Dystopia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Physics of the Impossible",
+			"author": "Michio Kaku",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Hobit",
+			"author": "J. R. R. Tolkien",
+			"language": "Čeština",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Podivuhodné posolstvo z inej planéty",
+			"author": "Herman Hesse",
+			"language": "Slovenčina",
+			"genre": "Detské rozprávky",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Kňaz na veky",
+			"author": "Štefan Sandtner",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Saeculum",
+			"author": "Ursula Poynanski",
+			"language": "Slovenčina",
+			"genre": "Fantasy",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Playalong Piano: 16 Charts Hits",
+			"author": "Wise Publications",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Python 3: Výukový kurz",
+			"author": "Mark Summerfield",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Telo ako posilňovňa: Biblia cvičení hmotnosťou tela",
+			"author": "Mark Lauren \u0026 Joshua Clark",
+			"language": "Slovenčina",
+			"genre": "Zdravie",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Naučte se C++ za 21 dní",
+			"author": "Jesse Leberty",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "The Republic",
+			"author": "Plato",
+			"language": "Angličtina",
+			"genre": "Filozofia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "MySQL: Okamžitě",
+			"author": "Timothz Boronczyk",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Java 8: Výukový kurz",
+			"author": "Herbert Schildt",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Socrates' Defence",
+			"author": "Plato",
+			"language": "Angličtina",
+			"genre": "Filozofia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "D7000: User's Manual",
+			"author": "Nikon",
+			"language": "Angličtina",
+			"genre": "Návod",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "HTML5 a CSS3",
+			"author": "Brian P. Hogan",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "1001 tipů pro C++",
+			"author": "Miroslav Virius",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Programujeme hry v HTML5",
+			"author": "Makzan",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Vulcanoes! Mountains of Fire",
+			"author": "Eric Arnold",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Matematika: 50 myšlienok ktoré by ste mali poznať",
+			"author": "Tony Crilly",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "CSS: Průvodce moderního webdesignu",
+			"author": "Peter Gasston",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Pamiatka na prvé sväté prijímanie",
+			"author": "Daniel Dovhun",
+			"language": "Slovenčina",
+			"genre": "Denník",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Java: Bez předchozích znalosti",
+			"author": "Eliška Roubalová",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Vytváříme mobilní web a aplikace pro chytré telefony a tablety",
+			"author": "Erle Castledine \u0026 Myles Eftos \u0026 Max Wheeler",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Profesionální webdesign: Techniky a vzovová řešení v CSS a XHTML",
+			"author": "Clint Eccher",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "WordPress for Dummies",
+			"author": "Lisa Sabin-Wilson",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Já, písnička 2 - zpěvnik pro 5. - 9. třídu",
+			"author": "PhDr. Pavel Klapetek, Dr. František Mouryc",
+			"language": "Čeština",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Efektivní analýza a využití dat",
+			"author": "Zach Gemignani \u0026 Chris Gemignani \u0026 Richard Galentino \u0026 Patrick Schuermann",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Bitcoin Billionaires: A True Story of Genius, Betrayl and Redemption",
+			"author": "Ben Mezrich",
+			"language": "Angličtina",
+			"genre": "Biografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Neuveriteľné Dobrodružstva Barsacovej Výpravy",
+			"author": "Jules Verne",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Enchanting Sweden",
+			"author": "Sophia Simone",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Reflections",
+			"author": "Ken Duncan",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Reflections 2",
+			"author": "Ken Duncan",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Reflections 3",
+			"author": "Ken Duncan \u0026 Leo Meier",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Songs From the Heart",
+			"author": "Hal Leonard",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "The Beatles Complete Guitar/Vocal Edition",
+			"author": "The Beatles",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Hobby Origami: Papierové skladačky pre veľkých aj malých",
+			"author": "Zülal Aytüre-Scheelová",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Veda: Unikátny obrázkový sprievodca",
+			"author": "Adam Hart-Davis",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Harry Potter: Filmové čary",
+			"author": "Brian Sibley",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Beginner's Guide to Digital Photography",
+			"author": "BDM",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Kniha na celý rok",
+			"author": "Angela Wilkesová",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "1000 faktov",
+			"author": "John Guest",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Otestuj si znalosti: História",
+			"author": "Jacob F. Field",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Lietanie na vlastné oči",
+			"author": "Von Hardesty",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Starověké civilizace",
+			"author": "Viacero autorov",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Wonders of the Universe",
+			"author": "Discovery Science",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Fotokniha",
+			"author": "Daniel Dovhun",
+			"language": "Slovenčina",
+			"genre": "Fotografia",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "The Independent Guide to Minecraft",
+			"author": "Micro Mart",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Suši",
+			"author": "Ikar",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "365 zaujímavosti",
+			"author": "Gill Davies",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Ako sa stať objaviteľom: Príručka dobrodruha",
+			"author": "Henry Hardcastle",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Piratológia",
+			"author": "Dugal Steer",
+			"language": "Slovenčina",
+			"genre": "Dobrodružná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Year 10 Advanced Mathematics Revision \u0026 Exam Workbook",
+			"author": "AS Kalra",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "The Human Body Exhibition",
+			"author": "Francis Bacon",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Nová kniha hlavolamov",
+			"author": "Ivan Moscovich",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Yamaha Clavinova",
+			"author": "Yamaha",
+			"language": "Angličtina",
+			"genre": "Návod",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Aké i/y sa píše?",
+			"author": "Lucia Gianitsová-Ološtianková",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Slovenský jazyk a literatúra",
+			"author": "Milada Caltíková",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Beautiful Piano Solos for Dummies",
+			"author": "Adam Perlmutter",
+			"language": "Angličtina",
+			"genre": "Hudba",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "JavaScript: Okamžitě",
+			"author": "Ara Pehlivanian \u0026 Don Nguyen",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Danová izba",
+			"shelf": "A"
+		},
+		{
+			"title": "Nature: Simple, Healthy And Good",
+			"author": "Alain Ducasse",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "In Season: cooking with vegetables and fruits",
+			"author": "Sarah Raven",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Sauces: Classical and Contemporary Sauce Making",
+			"author": "James Peterson",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Good Meat: The Complete Guide to Sourcing and Cooking Sustainable Meat",
+			"author": "James Beard, Deborah Krasner",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Heston Blumenthal at home",
+			"author": "Heston Blumenthal",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Scotto Sunday Suppers and Other Fabulous Feasts",
+			"author": "Scotto Family, Linda Stasi",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Bouchon Bakery",
+			"author": "Thomas Keller",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "A Day at elBulli: An insight into the ideas, methods and creativity of Ferran Adrià",
+			"author": "Ferran Adrià",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The Blue Ducks",
+			"author": "Mark Labroovy, Darren Robertson",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Washington, DC",
+			"author": "Eyewitness Travel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Florida",
+			"author": "Eyewitness Travel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "New Orleans",
+			"author": "Eyewitness Travel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "London",
+			"author": "Eyewitness Travel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "New York",
+			"author": "Eyewitness Travel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Greece",
+			"author": "Eyewitness Travel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Pařiž",
+			"author": "Společník Cestovatele, Eyewitness Travel",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "People Within a Landscape: A Collection of Images of Nepal",
+			"author": "Bert Willson, Shirley Bourke",
+			"language": "Angličtina",
+			"genre": "Cestovanie, Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Official Guide to the Smithsonian: Third Edition",
+			"author": "Smithsonian Books",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "San Francisco: English Edition",
+			"author": "EB Bonechi",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Quebec City: English Edition",
+			"author": "Irving Weisdorf \u0026 Co. LTD., Larry Fisher",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Sorrento and the Amalfi Coast",
+			"author": "Kina Italia",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Vancouver: A City For All Reasons",
+			"author": "Natural Colors Production LTD.",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Uluru and Kata Tjuta: a geological guide",
+			"author": "I. P. Sweet, A. J. Steward, I. H. Crick",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Costa Rica ¡Pura vida!",
+			"author": "Juan José, Sergio Pucci",
+			"language": "Španielčina",
+			"genre": "Cestovanie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Huston, Texas: A Photographic Portrait",
+			"author": "Jim Olive",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Images of Dubai and the United Arab Emirates",
+			"author": "Explorer Publishing",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "1000 Questions and Answers about Australia",
+			"author": "Cathy Vallace, Michele Perry",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Australia's Explorers' Way: The Greatest Trail in Australia",
+			"author": "Exploring Australia",
+			"language": "Angličtina",
+			"genre": "Cestovateľská",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Your visit to LOURE",
+			"author": "Denis Kilian",
+			"language": "Angličtina",
+			"genre": "Umenie, Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Otawa: and the National Capital Region",
+			"author": "Malak",
+			"language": "Angličtina, Francúžtina",
+			"genre": "Sprievodca, Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Never Trust a Skinny Italian Chef",
+			"author": "Massimo Bottura",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Sydney Seafood School Cookbook",
+			"author": "Roburta Muir",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Under Pressure: Cooking Sous VIde",
+			"author": "Thomas Keller",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The Barbacue Cookbook",
+			"author": "Weldon Owen",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Grand Class Cookery Book: Volume 1",
+			"author": "Karl Obauer, Rudolf Obauer, Helmut Österreicher, Jörg Wörther",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Grand Class Cookery Book: Volume 1",
+			"author": "Lisl Wagner-Bacher, Reinhard Gerer",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The Fat Duck Cookbook",
+			"author": "Heston Blumenthal",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Gordon Ramsay's Healthy Appetite: Recipes from the f word",
+			"author": "Gordon Rammsay",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Make it easy: A Step-by-Step Recipe Collection for the Home Cook",
+			"author": "Wolfgang Puck",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Formulas for Flavour: How to cook restaurant dishes at home",
+			"author": "Heston Blumenthal",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The Best Basic and Easy Recipes of Texas Cooking",
+			"author": "John Hinde Curteich",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "All About Olie Oil: Facts and Recipes",
+			"author": "Manuel Piedrahita",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The Third Plate: Field Notes on the Future of Food",
+			"author": "Dan Barber",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Mediterranean Fresh: a compendium of one -plate salad meals and mix-andmatch dressings",
+			"author": "Joyce Goldstein",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Dubai: The City of Dreams",
+			"author": "Helge Reinke, Nicole Luettecke, Siegfried Geyer",
+			"language": "Angličtina, Nemčina",
+			"genre": "Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Welcome to Dubai",
+			"author": "Cartier Boutiques",
+			"language": "Angličtina, Nemčina, Arabčina",
+			"genre": "Reklamy",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Copenhagen and Environs",
+			"author": "EB Bonechi",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Where Guestbook: Houston",
+			"author": "Where Oceanaire",
+			"language": "Angličtina",
+			"genre": "Reklamy",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Golden Book of Morroco",
+			"author": "EB Bonechi",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Rím a Vatikán",
+			"author": "Lorzi Roma",
+			"language": "Slovenčina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Chichén Itzá: The Mysterious of the Pulumed Serpent",
+			"author": "Guide Pratiche",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The Prado Guide",
+			"author": "Museo Nacional Del Prado",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Ibiza and Formentera Mini Guide",
+			"author": "Everest",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Sydney's Best Harbour \u0026 Coastal Walks: 3rd Edition",
+			"author": "Katrina O'Brien",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Cathedral and City Guide of Cologne",
+			"author": "Horst Ziethen",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Atlanta impressions",
+			"author": "Rob Helfrick",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Costa Brava Barcelona",
+			"author": "Polygott",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Costa Brava Katalánie",
+			"author": "Polygott",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Sagrada Familia: A Temple Converted Into a Universal Work of Art",
+			"author": "Carlos Giordano Rodríguez, Nicolás Palmisando Sosa",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Antoni Gaudí",
+			"author": "Ricard Regás, Carlos Giordano, Nicolás Palmisano",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Singapore",
+			"author": "Discovery Channel",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Rhodes: today and yesterday",
+			"author": "Michael Toublis Publications",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Socílie",
+			"author": "Marco Polo (vydávateľstvo)",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Kanada východ",
+			"author": "Merian Live",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Andalusie",
+			"author": "Merian Live",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Mallorca",
+			"author": "Merian Live",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Toskánsko",
+			"author": "Merian Live",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Itálie",
+			"author": "Verlang Karl Baedeker",
+			"language": "Čeština",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "The 1000 Islands",
+			"author": "Ian Coristine",
+			"language": "Angličtina",
+			"genre": "Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Park Güel",
+			"author": "Dosdearte Ediciones",
+			"language": "Španielčina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Madeira",
+			"author": "Frank Cook Reisenführer",
+			"language": "Nemčina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Pompeii Reconstructed",
+			"author": "Carlos Alberto Serta, Dominico d'Oriano",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Rome Reconstructed",
+			"author": "Guiliana Coletta",
+			"language": "Angličtina",
+			"genre": "Sprievodca",
+			"room": "Pivnica-Vchod",
+			"shelf": "A"
+		},
+		{
+			"title": "Delong's Wine Tasting Notebook",
+			"author": "De Long, Peter Dovhun",
+			"language": "Angličtina, Slovenčina",
+			"genre": "Denník",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Family Food: A new aproach to cooking",
+			"author": "Heston Blumenthal",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Food Presentation Secrets: Styling techniques of professionals",
+			"author": "Cara Hobday, Jo Denbury",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Recipes from Tuscany",
+			"author": "Paolo Petroni",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Kuchárska Elita",
+			"author": "Ján Kramár, Zlatica Kramárová",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Master Chef: Denník Víťaza",
+			"author": "Peter Jonáš",
+			"language": "Slovenčina",
+			"genre": "Denník",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Sous Vide: Low temperature recipes and techniques for getting started at home",
+			"author": "Jason Lodgsdon",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "The Traditional Greek Cookery Book",
+			"author": "Sofia Souli",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Twelve: A Tuscan cook book",
+			"author": "Tessa Kiros",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Návrat šéfkuchára bez čapice",
+			"author": "Jamie Oliver",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Šéf na grilu: 100 skvělých receptů Zdenka Pohlreicha",
+			"author": "Zdenek Pohlreich",
+			"language": "Čeština",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Šéf na grilu II: 91 Skvělích receptů Zdenka Pohlreicha",
+			"author": "Zdenek Pohlreich",
+			"language": "Čeština",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Jamie's Food Revolution",
+			"author": "Jamie Oliver",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "5 Ingridients",
+			"author": "Jamie Oliver",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Jamie's 15 minute meals",
+			"author": "Jamie Oliver",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Dim Sum: A step-by-step cookbook",
+			"author": "np lip kah",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Špagety s vtipem a fantazií",
+			"author": "Rebo",
+			"language": "Čeština",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Varíme s pôžitkom: Vynikájúce recepty v dokonalom vyobrazení",
+			"author": "Annette Wolterová, Christian Teubner",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Pečieme s pôžitkom: Najlepšie recepty na koláče a zákusky na rôzne príležitosti",
+			"author": "Annette Wolterová, Christian Teubner",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Moderní Kuchářka: Kuchářska škola od A do Z",
+			"author": "Marianne Kaltenbachová, Friedrich W. Ehlert",
+			"language": "Čeština",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Chuťovky z Markízy",
+			"author": "Petr Novotný",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Grilujeme doma aj v prírode",
+			"author": "Monika Rohardtová",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Jídlo, víno, přátelé: jak se stát dokonalým hostitelem",
+			"author": "Fiona Beckettová, Peter Cassidy",
+			"language": "Čeština",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Recepty zo života 2",
+			"author": "Ringier Axel Springer Slovakia",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Recepty zo života 3",
+			"author": "Ringier Axel Springer Slovakia",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Mezze: Small plates to share",
+			"author": "Ghillie Basan",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Báječné recepty na párty",
+			"author": "Mosaik Verlag",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Talianská Kuchyňa",
+			"author": "Verlag Zabert Sandmann",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Gril: Najväčší ilustrovaný sprievodca grilovaním a barbacue",
+			"author": "Steven Raichlen",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Mastering the Art of French Cooking: Volume One",
+			"author": "Julia Child, Louisette Bartholle, Simone Beck",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Mastering the Art of French Cooking: Volume Two",
+			"author": "Julia Child, Simone Beck",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Exotická asijská kuchyně: Vaření a kultura",
+			"author": "Martin Sobkuljak",
+			"language": "Čeština",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Chuťovky",
+			"author": "Murloch Books",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Všetko o čínskej kuchyni",
+			"author": "Lia Cihua, Uli Franz",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Varenie: 100 najlepších receptov z celého sveta",
+			"author": "Christian Teuber",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Varenie: Perfekná Kulinárska Príručka",
+			"author": "Lioba Waleczek",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Milión menu: Recepty medzinárodnej kuchyne",
+			"author": "Robert Carrier",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Simply heaven: Volume 3",
+			"author": "Philadelfia",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Kórejská kuchyňa ",
+			"author": "Jong-Bum Park",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Paulus vs Ihnačák",
+			"author": "Roman Paulus, Marcel Ihnačák",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Kuchyňa Lidla pre malých kuchárov",
+			"author": "Kuchyňa Lidla",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Najlepľie jedlá na svete alebo kuchárska kniha aj pre tých čo vôbec nevedia varit",
+			"author": "Grondzak Michal",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "Veľká Slovenská kuchárka",
+			"author": "Ľudmila Dullová",
+			"language": "Slovenčina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "The best 100 tapas",
+			"author": "Esperanza Luca de Tena",
+			"language": "Angličtina",
+			"genre": "Náučná, Varenie",
+			"room": "Pivnica-Vchod",
+			"shelf": "B"
+		},
+		{
+			"title": "The Oxford Companion to Wine",
+			"author": "Jancis Robinson",
+			"language": "Angličtina",
+			"genre": "Náučná, Víno",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Čaro Návratov",
+			"author": "Ladislav Janiga",
+			"language": "Slovenčina",
+			"genre": "Cestovateľská",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Kuánske cigary a iné vášne",
+			"author": "Ivo Hlaváček",
+			"language": "Slovenčina",
+			"genre": "Náučná, Cigary",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Tajomstvo času a vesmíru",
+			"author": "Janet Cave",
+			"language": "Slovenčina",
+			"genre": "Náučná, Vesmír",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Bitky ktoré zmenili históriu",
+			"author": "Phyllis Jestice",
+			"language": "Slovenčina",
+			"genre": "Náučná, Dejiny",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Kone",
+			"author": "Gabrielle Boiselle",
+			"language": "Slovenčina",
+			"genre": "Náučná, Fotografia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Encyclopaedia Beliana: Prvý zväzok",
+			"author": "Ján Azud, Anton Bezák",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Zamlčané dejiny: Pôvod a začiatky Slovenov-Slovákov",
+			"author": "Viktor Timura",
+			"language": "Slovenčina",
+			"genre": "Náučná, Dejiny",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Prehistória: Úplná histoória vývoja života na zemi v obrazoch",
+			"author": "Duglas Palmer",
+			"language": "Slovenčina",
+			"genre": "Náučná, Dejiny",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "História: Od úsvitu civilizácie po súčastnosť",
+			"author": "Ikar, Kolektív",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Útes: Skúmanie podmorského sveta",
+			"author": "Scubazoo",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Oceán",
+			"author": "Fabien Cousteau",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Zem",
+			"author": "Ikar, Kolektív",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Vesmír",
+			"author": "Martin Rees",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Človek",
+			"author": "Robert Winston",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Rastlina",
+			"author": "Janet Marinelli",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Vták",
+			"author": "Ikar, Kolektív",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Zviera",
+			"author": "David Burnie",
+			"language": "Slovenčina",
+			"genre": "Náučná, Encyklopédia",
+			"room": "Pivnica-Vchod",
+			"shelf": "C"
+		},
+		{
+			"title": "Vesmír vo orechovej škrupine",
+			"author": "Stephen Hawking",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Leading People: Be the Change You Want to See",
+			"author": "Partners in Winner",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "First Footprints: The epic story of the First Australians",
+			"author": "Scott Cane",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Helping People Change: Coaching with Compassion for Lifelong Learning and Growth",
+			"author": "Richard Boyatzis, Melvin Smith, Ellen Van Oosten",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Fifth Discipline Fieldbook: Strategies and Tools For Building a Learning Organization",
+			"author": "Peter M. Senge, Richard Loss, Bryan Smith, Charlotte Roberts, Art Kleiner",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Fifth Discipline: The Art \u0026 Practice of The Learning Organization",
+			"author": "Peter M. Senge",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Great Game of Business",
+			"author": "Jack Stack",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Ekonomie",
+			"author": "Paul A. Samuelson, William D. Nordhaus",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "International Business: Theory and Managerial Application",
+			"author": "Robert Grosse, Duane Kujawa",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Strategic Management: An Integrated Approach",
+			"author": "Charles W. L. Hill, Gareth R. Jones",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Marketing Management: Analýza plánování využití kontrola (Vydanie 9.)",
+			"author": "Kotler Philip",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Contemporary Advertising (Third Edition)",
+			"author": "Courtland L. Bovée, William F. Arens",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "In Search of Excellence: Lessons from America's Best-Run Companies",
+			"author": "Tom Peters, Robert H. Waterman Jr.",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "A Stake in the Outcome: Building a Culture of Ownership For the Long Term Success of Your Business",
+			"author": "Jack Stack, Bo Burlingham",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Great Game of Business: The Only Sensible Way to Run a Company",
+			"author": "Jack Stack, Bo Burlingham",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Turn the Ship Around: How to Create Leadership at Every Level",
+			"author": "L. David Marquet",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Betting the House, Beating the Odds: Kirit Chimanlal Shah's transformation of Gangjee Premjee \u0026 Co",
+			"author": "Greg Lowe",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The 4 Disciplines of Execution: Achieving Your Wildly Important Goals",
+			"author": "Chris McChesney, Sean Covey, Jim Huling",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Mastering the Rockefeller Habits: What you Must Do to Increase the Value of Your Growing Firm",
+			"author": "Verne Harnish",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Scaling Up: Mastering the Rockefeller Habits 2.0",
+			"author": "Verne Harnish",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Spin: How to turn the power of the press to your advantage",
+			"author": "Michael S. Sitrick",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Power and Choice: An Introduction to Political Science (Second Edition)",
+			"author": "W. Philips Shively",
+			"language": "Angličtina",
+			"genre": "Politics",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Power to Compete",
+			"author": "Ryoichi Mikitani + Hiroshi Mikitani",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Go Put Your Strengths to Work: 6 Powerful Strengths to Achieve Outstanding Performance",
+			"author": "Marcus Buckingham",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Strategy for Sustainability: A business Manifesto",
+			"author": "Adam Werbach",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Passion and Purpose",
+			"author": "John Coleman, Daniel Gulati, W. Oliver Segovia, Bil George",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Market Driven Strategy: Process for Creating Value",
+			"author": "George S. Day",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Dynamic Organisations",
+			"author": "David Jackson",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Great By Choice: Uncertaintz, Chaos and Luck",
+			"author": "Jim Collins, Morten T. Hansen",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Good to Great",
+			"author": "Jim Collins",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Drive Business Performance: Enabling a Culture of Intelligent Execution",
+			"author": "Bruno Aziza, Joey Fitts",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Pursuit of Prime: Maximize your Company's Success With the Adizes Program",
+			"author": "Ph.D. Ichak Adizes",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Co-opetition",
+			"author": "Adam M. Brandenburger, Barry J. Nalebuff",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Firmy, ktoré pretrvavjú (Built to Last)",
+			"author": "Jim Collins, Jerry I. Porras",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Z dobrého skvelé",
+			"author": "Jim Collins",
+			"language": "Slovenčina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "FYI (For Your Improvement, 3rd Edition)",
+			"author": "Michael M. Lombardo, Robert W. Eichinger",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "FYI (For Your Improvement, 4th Edition)",
+			"author": "Michael M. Lombardo, Robert W. Eichinger",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "How the Mighty Fall: and why some companies never give in",
+			"author": "Jim Collins",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Konec dějin a poslední člověk",
+			"author": "Francis Fukuyama",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Bohatsví a bída národů: Proč jsou někteří tak bohatí a někteří tak chudí",
+			"author": "David S. Landes",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Morálka Lidské Mysli: Proč lidstvo rozděluje politika a náboženství",
+			"author": "Jonathan Haidt",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Mocní a Všemohoucí: Úvahy o Bohu, Americe a mezinárodních vztazích",
+			"author": "Madeleine Albrightová",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "A Woman in Charge",
+			"author": "Carl Bernstein",
+			"language": "Angličtina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Homo Deus: Stručná história zajtrajška",
+			"author": "Yuval Noah Harari",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Sapiens: Stručná história ľudstva",
+			"author": "Yuval Noah Harari",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Střet civilizací: Boj kultur a proměna světového řádu",
+			"author": "Samuel P. Huntington",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "18 + 1 jamka",
+			"author": "Otakar Doležal",
+			"language": "Čeština",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Golfové tipy I.",
+			"author": "Tomáš Večeřa, Jiři Simbartl, Ondřej Fiala",
+			"language": "Čeština",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Schwarz hraje birdie",
+			"author": "Jaroslav Kuťák",
+			"language": "Čeština",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Krásna smrt aneb osmnáct povídek z golfu",
+			"author": "Jaroslav Kuťák, Lubomír Lichý",
+			"language": "Čeština",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Ako sa zlepšiť v golfe",
+			"author": "Colin Howe",
+			"language": "Slovenčina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "1001 Golf Holes You Must Play Before You Die",
+			"author": "Robert Trent Jones Jr., Jeff Barr",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Great Golf Down Under",
+			"author": "Michael Clayton, Gary Lisbon",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Golf Anatomy",
+			"author": "Craig Davies, Vince DiSaia",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Let Me Teach You Golf As I Taught Jack Nicklaus",
+			"author": "Jack Grout, Dick Aultman",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Golf: Průvodce světem golfu",
+			"author": "Gary Whales, Duncan Gruickshank",
+			"language": "Čeština",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Tiger Woods: Jak já hrajú golf",
+			"author": "Tiger Woods, Golf Digest",
+			"language": "Čeština",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Tiger Woods: How I Play Golf",
+			"author": "Tiger Woods, Golf Digest",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Faults and Fixes: How to correct the 80 most common problems in golf",
+			"author": "David Leadbetter, John Huggan",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Ilustrovaná pravidla Golfu",
+			"author": "Royal \u0026 Ancient Golf Club of St. Andrews",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Where Bobby Learned to Play",
+			"author": "Linton C. Hopkins",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Otův golfník poučník: Přes 3000 glosovaných anglických výrazů užívaných v golfu",
+			"author": "Otakar Doležal",
+			"language": "Angličtina",
+			"genre": "Golf",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "How to Talk to Anyone, Anytime, Anywhere: The Secrets of Good Communication",
+			"author": "Larry King, Bill Gilbert",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Who Killed Creativity... And How Can We Get It Back?",
+			"author": "Andrew Grant, Gaia Grant, Dr. Jason Gallate",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Unlimited Power",
+			"author": "Anthony Robbins",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Motivate Yourself: Get the Life You Want, Find Purpose and Achieve Fulfilment",
+			"author": "Andro Donovan",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Who Moved My Cheese?",
+			"author": "Spencer Johnson, M. D.",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Náš ľadovec sa roztápa: Ako prežiť a uspieť v meniacom sa svete",
+			"author": "John Kotter, Holger Rathgeber",
+			"language": "Slovenčina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Subtle Art of Not Giving a F*ck: A counterintuitive Approach to Living a Good Life",
+			"author": "Mark Manson",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Phantom TollBooth (Special 35th Anniversary Edition)",
+			"author": "Norton Juster",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Red Rubber Ball at Work: Elevate Your Game Through the Hidden Power of Play",
+			"author": "Kevin Carroll",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Working with Emotional Intelligence",
+			"author": "Daniel Goleman",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Posledná prednáška",
+			"author": "Randy Pausch, Jeffrey Zaslov",
+			"language": "Slovenčina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Strengths Finder 2.0",
+			"author": "Tom Rath",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Little Green Book of Getting Your Way: How to Speak, Write, Present, Persuade, Influence, and Sell Your Point of View to Others",
+			"author": "Jeffrey Gitomer",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Truth About You: Your Secret to Success",
+			"author": "Marcus Buckingham",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "How Not to Be Wrong: The Hidden Maths of Everyday Life",
+			"author": "Jordan Ellenberg",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Thinking, Fast and Slow",
+			"author": "Daniel Kahneman",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Business Intelligence for Dummies",
+			"author": "Swain Scheps",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Hard Think About Hard Things: Building a Business When THere Are No Answer",
+			"author": "Ben Horowitz",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Financial Intelligence for IT Proffesionals: What You Really need to Know About the Numbers",
+			"author": "Karen Berman, Joe Knoght, John Case",
+			"language": "Angličtina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Applied Insurance Analytics: A Framework for Driving More Value from Data Assets, Technologies and Tools",
+			"author": "Patricia L. Saporito",
+			"language": "Angličtina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Pohled zaměřeny do budoucnosti: Příběh firmy PROCTER \u0026 GAMBLE",
+			"author": "Oscar Schisgall",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "It May Happen To Me: The Essential Guide to General Insurance (Second Edition)",
+			"author": "Dr. Allan Manning",
+			"language": "Angličtina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Essential Reads for Global Leaders (Special Edition)",
+			"author": "Harward Business Review",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "How Life Imitates Chess: Insight into life as a game of strategy",
+			"author": "Garry Kasparov",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Zero to One: Notes on Startups or How To Build the Future",
+			"author": "Peter Thiel, Blake Masters",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Ako vybudovať úspešný biznis aj keď robíte jednu chybu za druhou",
+			"author": "Michal Truban",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Profit Principle: How to turn what you know into what you do - without spending or borrowing a cent",
+			"author": "Peter Fritz, Jeanne-Vida Douglas",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Big Data: Using smart big data analytics and metrics to make better decisions and improve performance",
+			"author": "Bernard Marr",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Hackers and Painters: Big Ideas from the Computer Age",
+			"author": "Paul Graham",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Insurance Transformed: Technological Disruption",
+			"author": "Michael Naylor",
+			"language": "Angličtina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Manažerské účetnictví",
+			"author": "Alena Čechová",
+			"language": "Čeština",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Big Data Revolution: What farmers, doctors and insurance agents teach us about discovering big data patterns",
+			"author": "Rob Thomas, Patric McSharry",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Predictive Analytics: The power to predict who will click, buy, lie or die",
+			"author": "Eric Siegel",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Cyhtrá důvěra: Vytváření prosperity, osobní energie a radosti ve světe plném nedůvěry",
+			"author": "Stephen M. R. Covey, Greg Link",
+			"language": "Čeština",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "7 návyků skutečne efektivních lidí: Zásady osobního rozvoje, které změní váš život",
+			"author": "Stephen R. Covey",
+			"language": "Čeština",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Living the 7 habits",
+			"author": "Stephen R. Covey",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The 7 Habits of Highly Effective People",
+			"author": "Stephen R. Covey",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+			"author": "Stephen R. Covey",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Speed of Trust: The One Thing That Changes Everything",
+			"author": "Stephen M. R. Covey",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Google Story: pohled do zákulisá největšího obchodního, mediálního a technologického úspěchu naší doby",
+			"author": "David  A. Vise",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Steve Jobs",
+			"author": "Walter Isaacson",
+			"language": "Čeština",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Jack Welch a jeho Lexikón lídrov",
+			"author": "Jeffrey A. Krames",
+			"language": "Čeština",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Enhancement: The Art of Changing Hearts, Minds and Actions",
+			"author": "Guy Kawasaki",
+			"language": "Čeština",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Bill Gates a Byznys: 10 tajemstí nejbohatšího obchdního magnáta na světe",
+			"author": "Des Dearlove",
+			"language": "Čeština",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Umění války",
+			"author": "Sun-C'",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "V pravý čas: Pravdivý příběh Scotta McNealyho a vzestupu firmy MICROSYSTEMS",
+			"author": "Karen Southwick",
+			"language": "Čeština",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Multipliers: How the best leaders make everyone smarter",
+			"author": "Liz Wiseman, Greg McKeown",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Titans: The life of John D. Rockefeller, Sr.",
+			"author": "Ron Chernow",
+			"language": "Angličtina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Winning",
+			"author": "Jack Welch, Suzy Welch",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Jack: Straight from the gut",
+			"author": "Jack Welch, John A. Byrne",
+			"language": "Angličtina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Elon Musk: Tesla, SpaceX a hľadanie fantastickej budúcnosti",
+			"author": "Ashlee Vance",
+			"language": "Slovenčina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Beyond the Robe",
+			"author": "Bobby Sager",
+			"language": "Angličtina",
+			"genre": "Náboženská",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "The Last Islands: History of the Witsunday and Cumberland Islands",
+			"author": "John Bates",
+			"language": "Angličtina",
+			"genre": "Cestovateľská",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "English Slovak Dictionary | Anglicko Slovenský slovník",
+			"author": "N/A",
+			"language": "Angličtina, Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "English Language Dictionary",
+			"author": "Collins Cobuild",
+			"language": "Angličnina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Moje prví slova a věty: Začíname se Španělštinou",
+			"author": "A. Wilkes, J. Shackell",
+			"language": "Čeština, Španielčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Cambridge Preparation for the TOEFL Test",
+			"author": "Jolene Gear, Robert Gear",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Italština pro samouky",
+			"author": "N/A",
+			"language": "Čeština, Taliančina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Pass Key to the GMAT (Second Edition)",
+			"author": "Eugene D. Jaffe, Stephen Hilbert",
+			"language": "Angličina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Francúzština pre samoukov",
+			"author": "Slovenské pedagogické nakladateľstvo",
+			"language": "Slovenčina, Francúžtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Anglicko/Slovenský frazeologický slovník",
+			"author": "Slovenské pedagogické nakladateľstvo",
+			"language": "Angličtina, Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Francúzsko/Slovenský | Slovensko Francúzky Slovník || Dictionnaire Français / Slovaque | Slovaque | Français",
+			"author": "Slovenské pedagogické nakladateľstvo",
+			"language": "Slovenčina, Francúžtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Škola fotografovania: Techniky a triky majstrov",
+			"author": "National Geographic",
+			"language": "Slovenčina",
+			"genre": "Fotografia",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Škola fotografovania: Krajina",
+			"author": "National Geographic",
+			"language": "Slovenčina",
+			"genre": "Fotografia",
+			"room": "Tatková pracovnňa",
+			"shelf": "A"
+		},
+		{
+			"title": "Practical English Dictionary: A clear, consise and inexpensive English Dictionary ideal for home and school use",
+			"author": "Holland Enterprises",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "The Way",
+			"author": "RedCard",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Webster's New World Dictionary of the American Language",
+			"author": "David B. Guralnik",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "The Storyteller's Secret: How TED Speakers and Inspirational Leaders Turn Their Passion into Performance",
+			"author": "Carmine Gallo",
+			"language": "Angličtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "The Google: Inside the Hottest Business, Media and Technologz of Our Time",
+			"author": "David A. Wise",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Geometric Death Frequency - 141",
+			"author": "Frederico Díaz",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Outside Itself: Art is not art if it is created by the human hand",
+			"author": "Frederico Díaz",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Slovensko-Poľský turistický slovník",
+			"author": "Alojz Capiak",
+			"language": "Slovenčina, Poľština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Angličtina: Prakticky jazykový průvodce",
+			"author": "Jaroslava Krejčí, Milena Hnilicová",
+			"language": "Čeština, Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Czech Phrase Book \u0026 Dictionary",
+			"author": "Berlitz",
+			"language": "Čeština, Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Španělština",
+			"author": "Polyglott",
+			"language": "Čeština, Španielčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "What To Do About Worry",
+			"author": "Jay E. Adams",
+			"language": "Anglčtina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Sila pozitívneho myslenia",
+			"author": "Norman Vincent Peale",
+			"language": "Slovenčina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Tajemství vnitřní mluvy: Úspešná sebamanipulace",
+			"author": "Ivo Toman",
+			"language": "Čeština",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Kapitoly zo života spoločnosti (Dočasné učebné texty pre stredné školy)",
+			"author": "Slovenské pedagogické nakladateľstvo",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Right Light: Industry and Engineering Outdoor Workplace",
+			"author": "OMS",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Slovakia ...for..the... World",
+			"author": "I. I. P. Slovakia",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Diplomová Práca",
+			"author": "Peter Dovhun",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Lighting Management System",
+			"author": "OMS",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Lighting Services",
+			"author": "OMS",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "45 rokov vzdelávania, vedy a výskumu v obchodnovedných disciplínach",
+			"author": "Ekonomicka Univerzita v Bratislave",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Anglická Literárna čítanka",
+			"author": "Slovenské pedagogické nakladateľstvo",
+			"language": "Slovenčina, Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Dejiny filozofie",
+			"author": "Slovenské pedagogické nakladateľstvo",
+			"language": "Slovenčina, Angličtina",
+			"genre": "Filozofia",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Zaostrenéna výskum a vývoj",
+			"author": "Operačný program VÝSKUM A VÝVOJ",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Ekonomická věda a ekonomická reforma",
+			"author": "Václav Klaus",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "B"
+		},
+		{
+			"title": "Cloud Computing with the Windows Azure Platform",
+			"author": "Roger Jennings",
+			"language": "Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Štvrtý rozmer podnikania - etika",
+			"author": "Arnold S. Luknič",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Reklama je navoňaná zdochlina",
+			"author": "Oliver Toscani",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Lexikon společenského chováni (Červená)",
+			"author": "Vladimír Smejkal",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Lexikon společenského chováni (Zelená)",
+			"author": "Vladimír Smejkal",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Lexikon spoločenského styku",
+			"author": "J. Belička, V. Čikor, J. Grác, M. Majorová, M. Martišová, E. Medvecká, P. Paška, J. Pitoňák, V. Šándor, I. Verner",
+			"language": "Šlovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Človek hledá člověka (2. vydaní)",
+			"author": "Eva Bedrnová",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "96 '97",
+			"author": "Associate Public Relations Agentur",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Dovozový a vývozný obchodný prípad",
+			"author": "Marta Smreková",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Řízení neziskových organizací",
+			"author": "Peter F. Drucker",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Svetové Hospodarstvo: štruktúra a vývojové tendencie",
+			"author": "Ľudmila Lipková",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Nezúčtované postrehy bankára",
+			"author": "Hans Vontobel",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Jak myslá špičkový obchodník",
+			"author": "Martin Limbeck",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Podnikové financie",
+			"author": "Karol Vlachynský a kolektív",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Praktická reklama",
+			"author": "Heinz Schwalbe",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Informace pro marketing",
+			"author": "Hana Svobodná, Lenka Mynářová, Robert Kačer",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Medzinárodný marketing",
+			"author": "Eduard Urban",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Manažéri na cudzom parkete: Ako prekonávať nástrahy interkultúrnej komunikácie",
+			"author": "Tomáš Borec",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Teórie kapitálu a úroku a mechanizmus fungovania kapitálového trhu",
+			"author": "Veronika Piovarčiová",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Joint Ventures: Teoretický náčrt a praktické skúsenosti",
+			"author": "Judita Táncošová",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Moderná biznis etiketa pre manážerov",
+			"author": "Tomáš Borec",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Jak psát reklamná text",
+			"author": "Ivan Crha, Zdeněk Křížek",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Public Relations: Cesta k úspechu",
+			"author": "Ivan Žáry",
+			"language": "Slovenčina",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Burzy a burzovní obchody",
+			"author": "Václav Beneš, Peter Musílek",
+			"language": "Čeština",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Reengineering: Radikální proměna firmy",
+			"author": "Michael Hammer, James Champy",
+			"language": "Čeština",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Všetky vaše hriechy alebo správa o škandáloch Dzurindovej vlády",
+			"author": "Robert Čulen",
+			"language": "Slovenčina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "KSČ a národné výbory na Slovensku v začiatkoch socialistickej výstavby",
+			"author": "Stanislav Sikora",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Vnítrofiremní komunikace",
+			"author": "Ivana Hloušková",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Dobrými spůsoby k úspěchu",
+			"author": "Helga Gfaderová",
+			"language": "Čeština",
+			"genre": "Osobný rast",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Hotelierstvo: ubytovanie zariadenia a ich služby",
+			"author": "Ľudmila Novácka",
+			"language": "Slovenčina",
+			"genre": "Pohostinnosť",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Za tajomstvami svetového hospodárstva",
+			"author": "Drahoš Šíbl",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "English-Czech Commercial Dictionary | Anglicko Český slovník",
+			"author": "Scientia",
+			"language": "Čeština, Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Konverzačná príručka angličtiny pre pokročilých",
+			"author": "Ladislav Kubiš",
+			"language": "Čeština, Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Anglický jazyk pre 4. ročník stredných škôl",
+			"author": "Richard Repka, Anna Benešová, Jan Sládek, Marie Šalková",
+			"language": "Slovenčina, Angličtina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Public relations: zásady komunikace s veřejností",
+			"author": "Petr Němec",
+			"language": "Čeština",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Baťa: Baťová průmyslová demokrace",
+			"author": "Jaroslav Pochylý",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Metódy a štýly riadenia: Príručka identifikovania a diagnostikovania",
+			"author": "František Lipták",
+			"language": "Slovenčina",
+			"genre": "Náučná",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "The Penguin Business Dictionary",
+			"author": "Michael Greener",
+			"language": "Angličtina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Encyklopedický slovník medzinárodného obchodu: A-Ž",
+			"author": "Ľubomír Michník, Heda Hansenová, Ľubomila Lipková, Marta Smreková, Drahoš Šibl, Štefan Torma",
+			"language": "Slovenčina",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Kde je vôľa, tam je cesta",
+			"author": "Mikuláš Dzurinda",
+			"language": "Slovenčina",
+			"genre": "Životopis",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Business English: Porady, jednáni, schůzky",
+			"author": "Jana Bílková",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Business English: Small talk",
+			"author": "Jana Bílková",
+			"language": "Čeština",
+			"genre": "Business",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Právo pre ekonómov",
+			"author": "Ivan Schultz",
+			"language": "Slovenčina",
+			"genre": "Ekonomika",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Môžeš žiť navždy v pozemskom raji",
+			"author": "Watch Tower Bible and Tract Society of New York",
+			"language": "Slovenčina",
+			"genre": "Náboženská",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		},
+		{
+			"title": "Veselo vážne: Myšlienky bez cla",
+			"author": "Poradca s.r.o.",
+			"language": "Slovenčina",
+			"genre": "Filozofia",
+			"room": "Tatková pracovnňa",
+			"shelf": "C"
+		}
+	]
+}
